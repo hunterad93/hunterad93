@@ -16,7 +16,7 @@ Hello there! I'm a Data Scientist deeply passionate about leveraging data for en
 
 ### 🌐 Freelancing with Earth Analytics
 - **Role**: Data Scientist
-- **Contributions**: Used Google Earth Engine for environmental data analysis, developing predictive random forest models which had a 10% improvement in precision compared to past models. Generated predictive maps with a pipeline that downloaded cloud free composites of raster data from Google Earth Engine, transformed these into numpy arrays for inference with sci-kit learn, and piped predictions back into a CRS. These maps will be used to direct future field teams.
+- **Contributions**: Used Google Earth Engine for environmental data analysis, developing predictive random forest models which had a 10% improvement in precision compared to past models. Generated predictive maps with a pipeline that downloaded cloud free composites of raster data from Google Earth Engine, transformed these into numpy arrays for inference with sci-kit learn, and piped predictions back into a coordinate reference system. These maps will be used to direct future field teams.
 - **Skills**: ETL, Statistics, Problem Solving, Databases, Google Earth Engine, Scikit-Learn.
 
 ### 🍽️ Consulting for Burke Hospitality LLC
