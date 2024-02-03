@@ -8,7 +8,7 @@ Hello there! I'm a Data Scientist deeply passionate about leveraging data for en
 - **Project**: Firenet Wildfire Prediction Model
 - **Role**: Lead Data Scientist
 - **Key Contributions**: Spearheaded the operationalization of Firenet, an innovative neural network model that integrates geostationary and low Earth orbit satellite data to enhance wildfire detection and monitoring. Refactored a researcher's codebase for cloud deployment and orchestrated a series of cloud functions to make disparate satellite imagery interoperable in a maintainable pipeline. The pipeline outputs can be viewed on the projects website, where more information about the project can be found [firenet homepage](https://sites.google.com/view/firenet-/home).
-- **Skills**: Machine Learning, Neural Networks, Satellite Imagery Analysis, PyTorch, Data Engineering, Cloud Computing.
+- **Skills**: Machine Learning, Neural Networks, Satellite Imagery Analysis, PyTorch, Data Engineering, DevOps.
 
 
 ### 🌱 Working with Renewably
