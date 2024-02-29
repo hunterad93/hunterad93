@@ -4,17 +4,17 @@
 
 Hello there! I'm a Data Scientist deeply passionate about leveraging data for environmental and business impact. Based in the picturesque landscapes of Missoula, Montana, my journey intertwines a love for nature with a knack for numbers.
 
-### 🔥 Advancing Wildfire Boundary Detection with Firenet
-- **Project**: Firenet Wildfire Prediction Model
-- **Role**: Data Scientist
-- **Key Contributions**: Spearheaded the operationalization of Firenet, an innovative neural network model that integrates geostationary and low Earth orbit satellite data to enhance wildfire detection and monitoring. Refactored a researcher's codebase for cloud deployment and orchestrated a series of cloud functions to make disparate satellite imagery sources interoperable in a maintainable pipeline. The pipeline outputs can be viewed on the projects website, where more information about the project can be found [firenet homepage](https://sites.google.com/view/firenet-/home).
-- **Skills**: Machine Learning, Neural Networks, Satellite Imagery Analysis, PyTorch, Data Engineering, DevOps.
-
 
 ### 🌱 Working with Renewably
 - **Role**: Climate Data Intern
 - **Key Contributions**: Developed a scalable and intuitive greenhouse gas emissions dashboard. Completed an emissions inventory for the University of Montana in collaboration with administrators and the Renewably team which made the [news](http://montana.com/news/local/um-emissions-highest-since-2011-after-new-data-added-to-inventory). I innovated NLP techniques to draw insights from transaction descriptions made in natural language, identifying which departments in the University were the drivers of air travel emissions, findings that were used to influence sustainability initiatives. An analysis of a commuter survey uncovered previously unrecognized commuting patterns, which led to the development of a plan to disincentivize parking permits in favor of pay-per-use parking to reduce car commuting.
 - **Skills**: ETL, Data Entry, Statistics, Problem Solving.
+
+### 🔥 Advancing Wildfire Boundary Detection with Firenet
+- **Project**: Firenet Wildfire Prediction Model
+- **Role**: Data Scientist
+- **Key Contributions**: Spearheaded the operationalization of Firenet, an innovative neural network model that integrates geostationary and low Earth orbit satellite data to enhance wildfire detection and monitoring. Refactored a researcher's codebase for cloud deployment and orchestrated a series of cloud functions to make disparate satellite imagery sources interoperable in a maintainable pipeline. The pipeline outputs can be viewed on the projects website, where more information about the project can be found [firenet homepage](https://sites.google.com/view/firenet-/home).
+- **Skills**: Machine Learning, Neural Networks, Satellite Imagery Analysis, PyTorch, Data Engineering, DevOps.
 
 ### 🔍 Researching at University of Montana
 - **Role**: Research Assistant
