@@ -2,7 +2,7 @@
 
 ## 📈 Data Engineer & Analyst
 
-Hello there! I'm a Data Scientist deeply passionate about leveraging data for environmental and business impact. Based in the picturesque landscapes of Missoula, Montana, my journey intertwines a love for nature with a knack for numbers.
+Hello there! I'm a data engineer and analyst deeply passionate about leveraging data for environmental and business impact. Based in the picturesque landscapes of Missoula, Montana, my journey intertwines a love for nature with a knack for numbers.
 
 
 ### 🔍 Carbitrage
